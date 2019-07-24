@@ -98,6 +98,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header{
+  background: #b3d4fc;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+footer{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  margin-bottom: 2em;
+  background: aqua;
+  text-align: center;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
